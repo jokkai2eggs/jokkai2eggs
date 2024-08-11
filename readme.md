@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jokkai but you can call me JK.</h1>
 <h3 align="center">I'm fast learner who love in learning, flexible, talkative, eager and tech lover</h3>
 
-- 🔭 I’m currently working on [on working](on working)
+- 🔭 I’m currently working on [on working] port-web-vue-three.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
