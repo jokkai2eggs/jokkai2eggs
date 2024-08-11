@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jokkai but you can call me JK.</h1>
 <h3 align="center">I'm fast learner who love in learning, flexible, talkative, eager and tech lover</h3>
 
-- 🔭 I’m currently working on [on working] port-web-vue-three.vercel.app
+- 🔭 I’m currently working on [My port](port-web-vue-three.vercel.app)
+
+- 🌱 I’m currently learning **Solidity and Zk**
+
+- 👨‍💻 All of my projects are available at [https://port-web-vue-three.vercel.app/profile](https://port-web-vue-three.vercel.app/profile)
+
+- 💬 Ask me about **Vue , Nuxt**
+
+- ⚡ Fun fact **I think i'm the most seriously funny guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
