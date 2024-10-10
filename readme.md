@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity and Zk**
 
-- 👨‍💻 All of my projects are available at [https://port-web-vue-three.vercel.app/profile](https://port-web-vue.vercel.app/profile)
+- 👨‍💻 All of my projects are available at [https://port-web-vue.vercel.app/profile](https://port-web-vue.vercel.app/profile)
 
 - 💬 Ask me about **Vue , Nuxt**
 
